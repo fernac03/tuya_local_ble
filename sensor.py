@@ -173,7 +173,7 @@ mapping: dict[str, TuyaBLECategorySensorMapping] = {
     ),
     "jtmspro": TuyaBLECategorySensorMapping(
         products={
-            "rlyxv7pe":  # Smart Lock
+            "6fibxtph":  # Smart Lock
             [
                 TuyaBLESensorMapping(
                     dp_id=9,

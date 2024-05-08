@@ -201,9 +201,9 @@ devices_database: dict[str, TuyaBLECategoryInfo] = {
     ),
     "jtmspro": TuyaBLECategoryInfo(
         products={
-            "rlyxv7pe":  # Gimdow device product_id
+            "6fibxtph":  # Gimdow device product_id
             TuyaBLEProductInfo(
-                name="A1 PRO MAX",
+                name="Primebras Athenas BLE",
             ),
         },
     ),    
